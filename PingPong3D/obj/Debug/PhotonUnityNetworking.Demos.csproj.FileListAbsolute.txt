@@ -1,0 +1,2 @@
+C:\Unity Project\PingPong3D\obj\Debug\PhotonUnityNetworking.Demos.csproj.AssemblyReference.cache
+C:\Unity Project\PingPong3D\obj\Debug\PhotonUnityNetworking.Demos.csproj.CoreCompileInputs.cache
